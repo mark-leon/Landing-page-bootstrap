@@ -17,7 +17,6 @@ function App() {
       <Hero></Hero>
       <About></About>
       <Feature></Feature>
-      {/* <Cta></Cta> */}
       <Services></Services>
       <Portfolio></Portfolio>
       <Pricing></Pricing>
