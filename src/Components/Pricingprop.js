@@ -1,0 +1,24 @@
+import React from 'react'
+
+const Pricingprop = (props) => {
+    return (
+        <div className="col-lg-3 col-md-6">
+            <div className="box" data-aos="zoom-in">
+              <h3 style={{background: props.color}}>{props.option}</h3>
+              <h4><sup>$</sup>{props.amount}<span> / month</span></h4>
+              <ul>
+                <li>Aida dere</li>
+                <li>Nec feugiat nisl</li>
+                <li>Nulla at volutpat dola</li>
+                <li>Pharetra massa</li>
+                <li>Massa ultricies mi</li>
+              </ul>
+              <div className="btn-wrap">
+                <a href="#" className="btn-buy">Buy Now</a>
+              </div>
+            </div>
+          </div>      
+    )
+}
+
+export default Pricingprop
