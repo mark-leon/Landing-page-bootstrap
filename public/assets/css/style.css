@@ -327,6 +327,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   background: linear-gradient(0deg, rgba(10, 10, 10, 0.9) 0%, rgba(10, 10, 10, 0.9) 100%);
   padding: 0;
+  height: 550px;
   /* background-image:url("img/fotis-fotopoulos-LJ9KY8pIH3E-unsplash.jpg"); */
 }
 

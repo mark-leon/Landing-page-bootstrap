@@ -7,11 +7,11 @@ const Pricingprop = (props) => {
               <h3 style={{background: props.color}}>{props.option}</h3>
               <h4><sup>$</sup>{props.amount}<span> / month</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Free Domain</li>
+                <li>10 users included</li>
+                <li>2 GB of storage</li>
+                <li>Email support</li>
+                <li>Help center access</li>
               </ul>
               <div className="btn-wrap">
                 <a href="#" className="btn-buy">Buy Now</a>

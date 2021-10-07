@@ -6,7 +6,7 @@ const Footer = () => {
             <footer id="footer">
     <div className="container">
       <h3>Landing</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+      <p>Build pages that convert your traffic and leads into more business.</p>
       <div className="social-links">
         <a href="#" className="twitter"><i className="bx bxl-twitter"></i></a>
         <a href="#" className="facebook"><i className="bx bxl-facebook"></i></a>

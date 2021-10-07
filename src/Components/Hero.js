@@ -10,23 +10,23 @@ const Hero = () => {
       <div className="carousel-item active">
         <div className="carousel-container">
           <h2 className="animate__animated animate__fadeInDown">Welcome to <span>Landing</span></h2>
-          <p className="animate__animated fanimate__adeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <p className="animate__animated fanimate__adeInUp">Build pages that convert your traffic and leads into more business. Start creating now! Ready-made free templates, drag-and-drop editor and built-in image editor to make it easy. Try for free.</p>
           <a href="#about" className="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>
 
       <div className="carousel-item">
         <div className="carousel-container">
-          <h2 className="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-          <p className="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 className="animate__animated animate__fadeInDown">Front end development service</h2>
+          <p className="animate__animated animate__fadeInUp">Front-end web development is the development of the graphical user interface of a website, through the use of HTML, CSS, and JavaScript, so that users can view and interact with that website</p>
           <a href="#about" className="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>
 
       <div className="carousel-item">
         <div className="carousel-container">
-          <h2 className="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-          <p className="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+          <h2 className="animate__animated animate__fadeInDown">Back end development service</h2>
+          <p className="animate__animated animate__fadeInUp">Backend Development is also known as server-side development. It is everything that the users don't see and contains behind-the-scenes activities that occur when performing any action on a website. It focuses primarily on databases, backend logic, APIs, and Servers</p>
           <a href="#about" className="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
         </div>
       </div>

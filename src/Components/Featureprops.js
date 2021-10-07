@@ -3,21 +3,16 @@ const Featureprops = (props) => {
     return (
       <div className="row">
         <div className="col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0">
-          <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+          <h3>Front-end web development is the development of the graphical user interface of a website</h3>
           <p className="font-italic">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-            magna aliqua.
+          Front-end developers might build websites or web applications, or focus on mobile web development
           </p>
           <ul>
-            <li><i className="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-            <li><i className="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-            <li><i className="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+            <li><i className="ri-check-double-line"></i> Determining the structure and design of web pages.</li>
+            <li><i className="ri-check-double-line"></i> Ensuring user experience determines design choices.</li>
+            <li><i className="ri-check-double-line"></i>Developing features to enhance the user experience. Striking a balance between functional and aesthetic design. Ensuring web design is optimized for smartphones.</li>
           </ul>
-          <p>
-            Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-            velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum
-          </p>
+          <p>Front-end web development, also known as client-side development is the practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.</p>
         </div>
         <div className="col-lg-6 order-1 order-lg-2 text-center">
           <img src={props.imgsrc} alt="" className="img-fluid"/>

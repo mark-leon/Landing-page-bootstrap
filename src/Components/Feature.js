@@ -14,25 +14,25 @@ const Feature = () => {
           <li className="nav-item col-3" data-aos="zoom-in">
             <a className="nav-link active show" data-toggle="tab" href="#tab-1">
               <i className="ri-gps-line"></i>
-              <h4 className="d-none d-lg-block">Modi sit est dela pireda nest</h4>
+              <h4 className="d-none d-lg-block">Front end development</h4>
             </a>
           </li>
           <li className="nav-item col-3" data-aos="zoom-in" data-aos-delay="100">
             <a className="nav-link" data-toggle="tab" href="#tab-2">
               <i className="ri-body-scan-line"></i>
-              <h4 className="d-none d-lg-block">Unde praesenti mara setra le</h4>
+              <h4 className="d-none d-lg-block">Building user interface</h4>
             </a>
           </li>
           <li className="nav-item col-3" data-aos="zoom-in" data-aos-delay="200">
             <a className="nav-link" data-toggle="tab" href="#tab-3">
               <i className="ri-sun-line"></i>
-              <h4 className="d-none d-lg-block">Pariatur explica nitro dela</h4>
+              <h4 className="d-none d-lg-block">Convert desing file</h4>
             </a>
           </li>
           <li className="nav-item col-3" data-aos="zoom-in" data-aos-delay="300">
             <a className="nav-link" data-toggle="tab" href="#tab-4">
               <i className="ri-store-line"></i>
-              <h4 className="d-none d-lg-block">Nostrum qui dile node</h4>
+              <h4 className="d-none d-lg-block">Pixel perfect development</h4>
             </a>
           </li>
         </ul>
